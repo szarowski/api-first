@@ -1,23 +1,13 @@
 # API-First Design Examples
 
+This repository provides examples related to API-First Design series of articles at:
+
+[API-First Design](https://software-in-harmony.blogspot.com/2024/02/ "API-First Design")
+
 ## API-First Design: strict-server flag in oapi-generator
 
-### Running the Code
+Article: 
+[API-First Design: strict-server flag in oapi-generator](https://software-in-harmony.blogspot.com/2024/02/api-first-design-strict-server-flag-in.html "API-First Design: strict-server flag in oapi-generator")
 
-#### Generate server stubs
-
-go generate
-
-#### Build
-
-go build
-
-#### Test
-
-go test ./...
-
-#### Run
-
-go run
-
-### Note: The HTTP server listens on http://localhost:8080 
+GitHub repository:
+[strict-server repository](https://github.com/szarowski/api-first/tree/master/strict-server "strict-server repository")
